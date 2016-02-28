@@ -1,2 +1,2 @@
 busybox:
-  image: janeczku/alpine-kubernetes:3.3
+  image: alpine:3.3

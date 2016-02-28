@@ -1,0 +1,2 @@
+busybox:
+  image: alpine:3.3
